@@ -57,7 +57,8 @@ IELTS
 Memorial University of Newfoundland, St. John's, NL, Canada
 
 - Bachelor of Science, Sept. 2020 - Sept. 2024 (expected)
-  - Major : Computer Science, Minor : Economics
+  - Major : Computer Science
+  - Minor : Economics
 
 <!-- .slide vertical=true -->
 
@@ -65,10 +66,10 @@ Anandaniketan School, Sylhet, Bangladesh
 2006 - 2020
 
 - Edexcel IAS - May 2020
- - A in Physics
- - A in Chemistry
- - A in Mathematics
- - A in Further Mathematics
+  - A in Physics
+  - A in Chemistry
+  - A in Mathematics
+  - A in Further Mathematics
 
 <!-- .slide -->
 
@@ -178,6 +179,8 @@ Anandaniketan School, Sylhet, Bangladesh
 - **CSS3**, Familiar ∎∎
 - **NodeJS**, New ∎
 - **VueJS**, New ∎
+- **MongoDB**, Familiar ∎∎
+- **Google Cloud**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
 ## Software tools
