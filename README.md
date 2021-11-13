@@ -139,7 +139,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 - Part-time sales associate, [Mark's](https://marks.com), Kelsey Drive, St. John's, NL, Canada (Oct 2021 - Present)
 - Entrepreneur, [Dewan Mukto's Outpost](https://mukto.company.site), Online (Dec 2021 - Present)
-- IELTS trainer, [Dewan IELTS](https://office.dewan.dev/ielts-tips/), Remote (Dec 2019 - Jul 2021)
+- IELTS trainer, [Dewan IELTS](https://office.dewan.dev/ielts-training/), Remote (Dec 2019 - Jul 2021)
 - Founder, director, 3D animator, graphics designer, [Mux Anime Studios](https://mux111anime.wordpress.com), Remote (Nov 2019 - Present)
 
 
@@ -154,16 +154,25 @@ Anandaniketan School, Sylhet, Bangladesh
 <a id="blog-posts"></a>
 ## Blog posts
 
-- [我的 ASC 决赛复盘：冒险、失误与翻车](https://wu-kan.cn/2021/05/19/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/)
-- [今日此时所想之事（二）](https://wu-kan.cn/2021/02/11/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
-- [十月九日](https://wu-kan.cn/2020/10/09/%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
-- [今日此时所想之事](https://wu-kan.cn/2020/01/24/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
+- [Importance of computer science](https://office.dewan.dev/importance-of-computer-science/)
+- [Why do we tell stories?](https://office.dewan.dev/why-do-we-tell-stories/)
+- [My history of reading](https://office.dewan.dev/my-history-of-reading/)
+- [What is the most ideal lifestyle?](https://muktology.medium.com/what-is-the-most-ideal-life-my-ancestors-suggest-one-7e2a7458dde8)
+- [What is life?](https://muktology.medium.com/what-is-life-the-art-of-contemplation-answers-6c91bda3bcf)
 
 <!-- .slide vertical=true -->
 
-- [基于 Jekyll 搭建个人博客](https://wu-kan.cn/2019/01/18/%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
-- [我的算法竞赛模板](https://wu-kan.cn/2019/02/04/%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/)
-- [这一年的一点感想](https://wu-kan.cn/2019/07/18/%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
+- [Amusing art via math](https://office.dewan.dev/aa4mm/)
+- [Making a Discord bot 101](https://dewan.dev/2021/06/29/discordbots.html)
+- [Binary bits - memory calculation](https://dewan.dev/2021/03/03/binary-bits.html)
+- [Is the LGBTQ+ community worth it?](https://muktology.medium.com/is-the-lgbtq-community-worth-it-90425c954b35)
+- [The 'genius' behind Alan Walker's "Faded"](https://muktology.medium.com/the-genius-behind-alan-walkers-faded-cff8de5970ca)
+
+<!-- .slide vertical=true -->
+
+- [On study heat? Get a music beat!](https://muktology.medium.com/on-study-heat-get-a-music-beat-dcd08cccd5a0)
+- [Why tidiness is important](https://muktology.medium.com/be-tidy-be-clean-why-tidiness-is-important-94cb6c36aa79)
+- [Be prepared - survival guide](https://muktology.medium.com/be-prepared-the-travellers-survival-guide-eabcddf41809)
 
 <!-- .slide -->
 
