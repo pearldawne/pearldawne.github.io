@@ -16,6 +16,7 @@ Welcome to my homesite!
 
 <!-- .slide -->
 
+<a id="contact"></a>
 ## Contact
 
 - Current Address
@@ -46,6 +47,7 @@ I may be slow to respond, but feel free to reach out to me if you have any sugge
 
 <!-- .slide -->
 
+<a id="education"></a>
 ## Education
 
 <!-- .slide vertical=true -->
@@ -85,6 +87,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
+<a id="projects"></a>
 ## Projects
 
 <!-- .slide vertical=true -->
@@ -110,6 +113,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
+<a id="awards--achievements"></a>
 ## Awards & Achievements
 
 - **Pearson Edexcel Higher Achievers' Award**, Mar 2020
@@ -130,6 +134,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
+<a id="experience"></a>
 ## Experience
 
 - Part-time sales associate, [Mark's](https://marks.com), Kelsey Drive, St. John's, NL, Canada (Oct 2021 - Present)
@@ -146,6 +151,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
+<a id="blog-posts"></a>
 ## Blog posts
 
 - [我的 ASC 决赛复盘：冒险、失误与翻车](https://wu-kan.cn/2021/05/19/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/)
@@ -161,33 +167,34 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
+<a id="toolchains--software-skills"></a>
 ## Toolchains & Software skills
 
 <!-- .slide vertical=true -->
-## General programming
-- **QBASIC**, Familiar ∎∎
-- **Python**, Expert ∎∎∎∎
-- **Java**, Adept ∎∎∎
-- **IVerilog**, Familiar ∎∎
-- **Rust**, New ∎
-- **R**, Familiar ∎∎
+- General programming
+  - **QBASIC**, Familiar ∎∎
+  - **Python**, Expert ∎∎∎∎
+  - **Java**, Adept ∎∎∎
+  - **IVerilog**, Familiar ∎∎
+  - **Rust**, New ∎
+  - **R**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
-## Web development
-- **HTML5**, Adept ∎∎∎
-- **JavaScript**, Familiar ∎∎
-- **CSS3**, Familiar ∎∎
-- **NodeJS**, New ∎
-- **VueJS**, New ∎
-- **MongoDB**, Familiar ∎∎
-- **Google Cloud**, Familiar ∎∎
+- Web development
+  - **HTML5**, Adept ∎∎∎
+  - **JavaScript**, Familiar ∎∎
+  - **CSS3**, Familiar ∎∎
+  - **NodeJS**, New ∎
+  - **VueJS**, New ∎
+  - **MongoDB**, Familiar ∎∎
+  - **Google Cloud**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
-## Software tools
-- **Canva**, Expert ∎∎∎∎
-- **Unity 3D**, Familiar ∎∎
-- **MikuMikuDance**, Master ∎∎∎∎∎
-- **GIMP**, Familiar ∎∎
-- **Inkscape**, Familiar ∎∎
-- **Replit**, Expert ∎∎∎∎
-- **GitHub**, Expert ∎∎∎∎
+- Software tools
+  - **Canva**, Expert ∎∎∎∎
+  - **Unity 3D**, Familiar ∎∎
+  - **MikuMikuDance**, Master ∎∎∎∎∎
+  - **GIMP**, Familiar ∎∎
+  - **Inkscape**, Familiar ∎∎
+  - **FL Studio 12**, Adept ∎∎∎
+  - **GitHub**, Expert ∎∎∎∎
