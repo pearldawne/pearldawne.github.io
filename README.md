@@ -43,7 +43,7 @@ I may be slow to respond, but feel free to reach out to me if you have any sugge
   - **[Muxcord](https://muxcord.dewanmukto.repl.co/channel/join/61788701e9975e0155af5f6c)**
 
 - E-mail:
-  - **[dewanmukto @ gmail.com](mailto:dewanmukto@gmail.com)**
+  - **[dewanmukto@gmail.com](mailto:dewanmukto@gmail.com)**
 
 <!-- .slide -->
 
