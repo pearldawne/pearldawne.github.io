@@ -1,7 +1,7 @@
 # Greetings 🙋‍♂️
 
-Welcome to Dewan Mukto's homesite! \
-I'm currently busy, but feel free to explore.
+My name is Dewan Maksudul Islam Mukto. \
+Welcome to my homesite!
 <!-- .slide -->
 
 ## Highlights
