@@ -1,7 +1,7 @@
 # Greetings 🙋‍♂️
 
 Welcome to Dewan Mukto's homesite! \
-Current status : Busy
+I'm currently busy, but feel free to explore.
 <!-- .slide -->
 
 ## Highlights
