@@ -1,26 +1,50 @@
 # 星合の空
 
-欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
+Welcome to Dewan Mukto's homesite! \
+Current status : Busy
+<!-- .slide -->
+
+## Highlights
+
+- Web Developer @ [Asenturisk](https://asenturisk.com), [MuxSites](https://www.muxsites.com/), [MikuMikuDance](https://mikumikudance.org)
+- Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://muktology.medium.com/)
+- Director, 3D Animator, Graphics Designer @ [Mux Anime Studios](https://mux111anime.wordpress.com/credits/)
+- Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
+- Sales Associate @ [Mark's](https://marks.com)
+- Researcher @ [MuxWorks](https://www.muxworks.com/)
+- Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
 
 <!-- .slide -->
 
 ## Contact
 
-- Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Site
-  - **<https://wu-kan.cn>**
-- [Resume](https://wu-kan.github.io/resume/resume.pdf)
+- Current Address
+  - **CR-310, Cartier Court, Burton's Pond Road, A1B 3X6, NL, Canada**
+- Websites
+  - **<https://dewan.dev>**
+  - **<https://my.muxworks.com>**
+  - **<https://asenturisk.com>**
+  - **[More](https://mux.asenturisk.com/projects/websites)**
+- [Resume](https://my.muxworks.com/dewan-mukto-resume-3.pdf)
 
 <!-- .slide vertical=true -->
 
-- Phone
-  - **+86 18756280097**
-- WeChat
-  - **Wu-\_-Kan**
+I may be slow to respond, but feel free to reach out to me if you have any suggestions for any apps, games, or projects of mine.
+
+- Social Media
+  - **[Facebook](https://facebook.com/dewanmukto)**
+  - **[Instagram](https://instagram.com/dewanmukto)**
+  - **[Twitter](https://twitter.com/@DewanMukto)**
+  - **[Discord](https://discord.gg/invite/GqHJmagG4k)**
+
+- My Own Social Media
+  - **[Amrella](https://amrella.muxworks.com/user/muktodmi)**
+  - **[Amrella City](https://amrella.dewan.dev)**
+  - **[Muxcord](https://muxcord.dewanmukto.repl.co/channel/join/61788701e9975e0155af5f6c)**
+
 - E-mail:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
-  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
+  - **[dewanmukto @ gmail.com](mailto:dewanmukto@gmail.com)**
+  - **[dmimukto @ mun.ca](mailto:muktodmi@gmail.com)**
 
 <!-- .slide -->
 
@@ -28,55 +52,80 @@
 
 <!-- .slide vertical=true -->
 
-School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
+IELTS
 
-- M.S. in Computer Science, Sept. 2021 - Jul. 2024 (expected)
-  - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
+- Overall Band : 8.5
+
+Memorial University of Newfoundland, St. John's, NL, Canada
+
+- Bachelor of Science, Sept. 2020 - Sept. 2024 (expected)
+  - Major : Computer Science, Minor : Economics
 
 <!-- .slide vertical=true -->
 
-- B.E. in Computer Science, Supercomputer Class, Sept. 2017 - Jul. 2021
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
-  - Multicore Computing
+Anandaniketan School, Sylhet, Bangladesh
+2006 - 2020
+
+- Edexcel IAS - May 2020
+ - A in Physics
+ - A in Chemistry
+ - A in Mathematics
+ - A in Further Mathematics
 
 <!-- .slide -->
+
+- Edexcel IGCSE - May 2019
+  - 9 in Physics
+  - 9 in Chemistry
+  - 9 in Biology
+  - 9 in Mathematics B
+  - 9 in Further Pure Mathematics
+  - 9 in Bengali
+  - 9 in English Language B
+  - 9 in ICT
 
 ## Projects
 
 <!-- .slide vertical=true -->
 
-- [HPL-AI](https://wu-kan.cn/2021/03/14/HPL-AI/)[![Star](https://img.shields.io/github/stars/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI)[![Fork](https://img.shields.io/github/forks/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI/fork)
-  - An implementation of HPL-AI Mixed-Precision Benchmark based on hpl-2.3.
-  - Graduation design for undergraduate thesis.
+- [Muxcord](https://muxcord.apps.muxworks.com/)
+  - Trying to create a Discord-like social platform
+  - MongoDB, SocketIO, NodeJS
 
 <!-- .slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
-  - A static blog system with content-first, sliding sidebar theme.
-  - Powered by Jekyll.
+- [Mux Anime Studios](https://mux111anime.wordpress.com)
+  - Leading and maintaining a team of 30-40 volunteers who are working on an anime series together.
+  - One of the first anime studios in Bangladesh
+
+
+<!-- .slide vertical=true -->
+- [THRXT Technologies](https://youtu.be/tNtK-8OgYtw)
+  - Creating and working with shaders, 3D, animation, etc.
+  - GLSL, HLSL, MikuMikuDance
+
+<!-- .slide vertical=true -->
+- More projects are available on my [portfolio website](https://my.muxworks.com), and [Asenturisk](https://mux.asenturisk.com/projects)
 
 <!-- .slide -->
 
-## Honors
+## Awards & Achievements
 
-- **CCF Elite Collegiate Award (94 undergrads in China)**, [China Computer Federation (CCF)](https://www.ccf.org.cn/Awards/Awards/2021-09-06/736189.shtml), Sept. 2021
-- **Outstanding Undergraduate Thesis**, May. 2021
-- **First Prize (3rd) & Highest Linpack**, [ASC20-21 Student Supercomputer Challenge](https://wu-kan.cn/2021/05/19/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/), May. 2021
-
-<!-- .slide vertical=true -->
-
-- **Gold Medal (4th)**, [CCF Collegiate Computer Systems & Programming Contest](https://wu-kan.cn/2020/10/17/2020-CCF-CCSP%E7%AB%9E%E8%B5%9B-%E5%90%AB%E5%88%86%E8%B5%9B%E5%8C%BA%E7%AB%9E%E8%B5%9B/), South China Division, Oct. 2020
-- **First Scholarship**, Oct. 2020
-- **Silver Medal (2nd)**, "Intel Cup" [Parallel Application Challenge](http://cse.sysu.edu.cn/content/5501), CCF HPC China, Sept. 2020
-- **First Prize (3rd) & Winner Prize (5th)**, [Priority Research Application](https://cas-pra.sugon.com/webnews/detail/205), Chinese Academic of Science (CAS), Aug. 2020
+- **Pearson Edexcel Higher Achievers' Award**, Mar 2020
+- **The Daily Star Awards 2018-19**, Feb 2020
+- **Honorable Mention in 9th Bangladesh Physics Olympiad**, Jan 2019
 
 <!-- .slide vertical=true -->
 
-- **Top 0.05% in 11395**, [CCF Certified Software Professional](https://wu-kan.cn/2019/12/16/%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
-- **Silver Medal**, [International Collegiate Programming Contest, Xuzhou Site](https://wu-kan.cn/2019/11/04/%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
-- **Gold Medel**$\times 2$, China Collegiate Programming Contest, Guangdong Division, [May. 2019](http://www.gdcpc.cn/ArticleView/ArticleDetail?articleId=5cda35a3659ce607a808929a) & [May. 2018](https://ccpc.io/post/110)
+- **Duke of Edinburgh Awards (Bronze)**, Participation & Progression, Jan 2019
+- **2nd English Olympiad (1st Position)**, Sylhet Division, Jan 2018
+- **13th Bangladesh Astro-Olympiad 2018 (National Rounder)**, National Museum of Science and Technology, Bangladesh, Jan 2018
+- **1st English Olympiad (National Rounder)**, English Olympiad, WOC, Bangladesh, Jan 2017
+
+<!-- .slide vertical=true -->
+
+- **CAM SUST Astro Carnival 2014 (3rd prize)**,  Copernicus Astronomical Memorial of SUST, Sylhet, Bangladesh, Jan 2014
+- **Charupath Art Exhibition 2011 (2nd prize)**, Charupath, Sylhet, Bangladesh, Jan 2011
 
 <!-- .slide -->
 
