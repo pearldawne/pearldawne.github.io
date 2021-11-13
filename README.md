@@ -1,4 +1,4 @@
-# 星合の空
+# Greetings 🙋‍♂️
 
 Welcome to Dewan Mukto's homesite! \
 Current status : Busy
@@ -12,7 +12,7 @@ Current status : Busy
 - Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
 - Sales Associate @ [Mark's](https://marks.com)
 - Researcher @ [MuxWorks](https://www.muxworks.com/)
-- Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
+- International Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
 
 <!-- .slide -->
 
@@ -24,8 +24,8 @@ Current status : Busy
   - **<https://dewan.dev>**
   - **<https://my.muxworks.com>**
   - **<https://asenturisk.com>**
-  - **[More](https://mux.asenturisk.com/projects/websites)**
-- [Resume](https://my.muxworks.com/dewan-mukto-resume-3.pdf)
+  - **[more...](https://mux.asenturisk.com/projects/websites)**
+- [Résumé](https://my.muxworks.com/dewan-mukto-resume-3.pdf)
 
 <!-- .slide vertical=true -->
 
@@ -37,14 +37,12 @@ I may be slow to respond, but feel free to reach out to me if you have any sugge
   - **[Twitter](https://twitter.com/@DewanMukto)**
   - **[Discord](https://discord.gg/invite/GqHJmagG4k)**
 
-- My Own Social Media
+- My Own Social Platforms
   - **[Amrella](https://amrella.muxworks.com/user/muktodmi)**
-  - **[Amrella City](https://amrella.dewan.dev)**
   - **[Muxcord](https://muxcord.dewanmukto.repl.co/channel/join/61788701e9975e0155af5f6c)**
 
 - E-mail:
   - **[dewanmukto @ gmail.com](mailto:dewanmukto@gmail.com)**
-  - **[dmimukto @ mun.ca](mailto:muktodmi@gmail.com)**
 
 <!-- .slide -->
 
@@ -83,6 +81,8 @@ Anandaniketan School, Sylhet, Bangladesh
   - 9 in Bengali
   - 9 in English Language B
   - 9 in ICT
+
+<!-- .slide -->
 
 ## Projects
 
@@ -131,14 +131,21 @@ Anandaniketan School, Sylhet, Bangladesh
 
 ## Experience
 
-- Teach Assistant of Computer System Organization, Sept. 2021 - Jan. 2022 (expected)
-- Intern of Inference Engine, Speech & Audio Team (Beijing), Bytedance AI Lab, Feb. 2021 - Aug. 2021
-- Leader of [SYSU-SCC](https://github.com/SYSU-SCC), Mar. 2020 - Jul. 2021
-- Quiz Setter, Judge and Host of the Closing Ceremony for [SYSU Programing Contest](https://wu-kan.cn/2020/11/29/SYSU-Collegiate-Programming-Contest-2020,-Onsite/), Oct. 2020
+- Part-time sales associate, [Mark's](https://marks.com), Kelsey Drive, St. John's, NL, Canada (Oct 2021 - Present)
+- Entrepreneur, [Dewan Mukto's Outpost](https://mukto.company.site), Online (Dec 2021 - Present)
+- IELTS trainer, [Dewan IELTS](https://office.dewan.dev/ielts-tips/), Remote (Dec 2019 - Jul 2021)
+- Founder, director, 3D animator, graphics designer, [Mux Anime Studios](https://mux111anime.wordpress.com), Remote (Nov 2019 - Present)
+
+
+<!-- .slide vertical=true -->
+- Part-time English teacher, **Pathantula Primary School**, Sylhet, Bangladesh (Apr 2018 - Nov 2018)
+- Sales cashier, [Life Care Surgicals](https://www.google.com/search?q=life+care+surgicals+sylhet), Sylhet, Bangladesh, (Feb 2018 - Jul 2021)
+- Novelist, poet on [Wattpad](https://wattpad.com/user/muktodmi), Online (Dec 2016 - Present)
+- Founder, web developer, head of research, [Asenturisk Corporation](https://asenturisk.com) (Sept 2015 - Present)
 
 <!-- .slide -->
 
-## Blogs
+## Blog posts
 
 - [我的 ASC 决赛复盘：冒险、失误与翻车](https://wu-kan.cn/2021/05/19/%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/)
 - [今日此时所想之事（二）](https://wu-kan.cn/2021/02/11/%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
@@ -153,20 +160,31 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide -->
 
-## Toolchains
+## Toolchains & Software skills
 
 <!-- .slide vertical=true -->
-
-- **C/C++**, Familiar
-  - **CUDA/HIP/ROCm**, Familiar&Learning
-  - **MPI**, Familiar
-  - **OpenMP**, Familiar
-- **Python**, Familiar
+## General programming
+- **QBASIC**, Familiar ∎∎
+- **Python**, Expert ∎∎∎∎
+- **Java**, Adept ∎∎∎
+- **IVerilog**, Familiar ∎∎
+- **Rust**, New ∎
+- **R**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
+## Web development
+- **HTML5**, Adept ∎∎∎
+- **JavaScript**, Familiar ∎∎
+- **CSS3**, Familiar ∎∎
+- **NodeJS**, New ∎
+- **VueJS**, New ∎
 
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
-- **Shell**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
+<!-- .slide vertical=true -->
+## Software tools
+- **Canva**, Expert ∎∎∎∎
+- **Unity 3D**, Familiar ∎∎
+- **MikuMikuDance**, Master ∎∎∎∎∎
+- **GIMP**, Familiar ∎∎
+- **Inkscape**, Familiar ∎∎
+- **Replit**, Expert ∎∎∎∎
+- **GitHub**, Expert ∎∎∎∎
