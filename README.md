@@ -116,7 +116,9 @@ Anandaniketan School, Sylhet, Bangladesh
 <a id="awards--achievements"></a>
 ## Awards & Achievements
 
-- **Pearson Edexcel Higher Achievers' Award**, Mar 2020
+<!-- .slide vertical=true -->
+
+- **Pearson Edexcel Higher Achievers' Award**, March 2020
 - **The Daily Star Awards 2018-19**, Feb 2020
 - **Honorable Mention in 9th Bangladesh Physics Olympiad**, Jan 2019
 
@@ -137,6 +139,8 @@ Anandaniketan School, Sylhet, Bangladesh
 <a id="experience"></a>
 ## Experience
 
+<!-- .slide vertical=true -->
+
 - Part-time sales associate, [Mark's](https://marks.com), Kelsey Drive, St. John's, NL, Canada (Oct 2021 - Present)
 - Entrepreneur, [Dewan Mukto's Outpost](https://mukto.company.site), Online (Dec 2021 - Present)
 - IELTS trainer, [Dewan IELTS](https://office.dewan.dev/ielts-training/), Remote (Dec 2019 - Jul 2021)
@@ -153,6 +157,8 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <a id="blog-posts"></a>
 ## Blog posts
+
+<!-- .slide vertical=true -->
 
 - [Importance of computer science](https://office.dewan.dev/importance-of-computer-science/)
 - [Why do we tell stories?](https://office.dewan.dev/why-do-we-tell-stories/)
