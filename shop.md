@@ -26,7 +26,7 @@ canvas{
    background-size: cover;
 }
 </style>
-<canvas id="canvas" width="100%" height="100%"></canvas>
+<canvas id="canvas" width="100%" height="2000"></canvas>
 
 <audio preload="auto" autoplay loop>
    <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
