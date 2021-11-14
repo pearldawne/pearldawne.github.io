@@ -187,29 +187,55 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide vertical=true -->
 - General programming
-  - **QBASIC**, Familiar ∎∎
-  - **Python**, Expert ∎∎∎∎
-  - **Java**, Adept ∎∎∎
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> **Python**, Expert ∎∎∎∎
+  - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> **Java**, Adept ∎∎∎
   - **IVerilog**, Familiar ∎∎
-  - **Rust**, New ∎
-  - **R**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> **Rust**, New ∎
+  - <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> **R**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
 - Web development
-  - **HTML5**, Adept ∎∎∎
-  - **JavaScript**, Familiar ∎∎
-  - **CSS3**, Familiar ∎∎
-  - **NodeJS**, New ∎
-  - **VueJS**, New ∎
-  - **MongoDB**, Familiar ∎∎
-  - **Google Cloud**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> **HTML5**, Adept ∎∎∎
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> **JavaScript**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> **CSS3**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />**NodeJS**, New ∎
+  - <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> **VueJS**, New ∎
+  - <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> **MongoDB**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> **Google Cloud**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
 - Software tools
-  - **Canva**, Expert ∎∎∎∎
-  - **Unity 3D**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> **Canva**, Expert ∎∎∎∎
+  - <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> **Unity 3D**, Familiar ∎∎
   - **MikuMikuDance**, Master ∎∎∎∎∎
-  - **GIMP**, Familiar ∎∎
-  - **Inkscape**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> **GIMP**, Familiar ∎∎
+  - <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" /> **Inkscape**, Familiar ∎∎
   - **FL Studio 12**, Adept ∎∎∎
   - **GitHub**, Expert ∎∎∎∎
+
+<!-- .slide -->
+
+## Miscellaneous
+
+<!-- .slide vertical=true -->
+
+![](https://github-readme-stats.vercel.app/api?username=dmimukto&show_icons=true&theme=midnight-purple)
+
+<!-- .slide vertical=true -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmimukto&theme=monokai)
+
+<!-- .slide vertical=true -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmimukto&theme=monokai)
+
+<!-- .slide vertical=true -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dmimukto&theme=monokai)
+
+<!-- .slide -->
+
+You've reached the end! 
+
+Congratulations! You've won a [free Discord bot order](https://mukto.company.site/products/Discord-Bot-RTC-App-Custom-p395932976)
+Also visit my ![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)(https://patreon.com/join/muktodmi) for extra benefits + merch every 3 months!
