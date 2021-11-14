@@ -311,7 +311,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       function setzero(i) {
                         return i < 10 ? "0" + i : i;
                       }
-                      let BirthDay = new Date(b);
+                      let BirthDay = new Date('January 22, 2002');
                       let today = new Date();
                       let timeold = (today.getTime() - BirthDay.getTime());
                       let sectimeold = timeold / 1000;
