@@ -255,9 +255,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               #- <script defer="defer" src="https://cdn.jsdelivr.net/gh/poole/lanyon@v1.1.0/public/js/script.min.js"></script> # 点击空白处而非按钮从而关闭侧边栏的插件，可选
               - | #修复点击侧边栏按钮回到顶部的问题
                 
-                <audio preload="auto" autoplay loop>
-                  <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
-                </audio>
+               
                 <style>
                   .sidebar-checkbox {
                     display: none;
@@ -532,14 +530,14 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
 
               <style>
               
-                /* .warp {
+                .warp {
                   background-image: url(https://cdn.discordapp.com/attachments/835459250460688445/908947209624649779/dewan_dev_1.png);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
                     background-image: url(https://cdn.discordapp.com/attachments/835459250460688445/908947430442151976/Dewan_Mukto.png);
                   }
-                } */
+                }
               </style>
             - | # 给文章加上磨砂背景，防止被背景影响阅读；同时加上加载动画
               <style>
