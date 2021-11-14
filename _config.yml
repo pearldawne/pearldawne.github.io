@@ -112,6 +112,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <style>
                 .sidebar,
                 table,
+                td,
+                tr,
                 h1,
                 h2,
                 h3, { 
