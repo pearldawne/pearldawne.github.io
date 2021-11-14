@@ -114,6 +114,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 table,
                 td,
                 tr,
+                tbody,
                 h1,
                 h2,
                 h3, { 
