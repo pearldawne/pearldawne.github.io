@@ -200,6 +200,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /tags/
               - title: '<i class="fas fa-archive fa-fw"></i> Archive'
                 href: /archive/
+              - title: <i class="fas fa-shopping-bag fa-fw"></i> Shop'
+                href: /shop/
               - title: '<i class="fas fa-coffee fa-fw"></i> Merch'
                 href: https://patreon.com/join/muktodmi
             simple_jekyll_search: # 侧边栏的全站搜索
