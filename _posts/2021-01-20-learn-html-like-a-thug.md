@@ -8,7 +8,7 @@ tags:
   - articles
 hero: https://fullsync.co.uk/wp-content/uploads/2020/06/HTML5.png
 overlay: purple
-published: false
+published: true
 ---
 
 "Vadim blyat! You wanna learn web development? It's not for you. Go home and cry to your mama. Bwahahahaaa."
