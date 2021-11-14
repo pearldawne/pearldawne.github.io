@@ -21,7 +21,7 @@ canvas{
    z-index:-1;
     }
 </style>
-<canvas id="canvas" width="100%" height="800"></canvas>
+<canvas id="canvas" width="100%" height="100%"></canvas>
 
 <audio preload="auto" autoplay loop>
    <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
