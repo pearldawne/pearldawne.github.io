@@ -180,6 +180,9 @@ Anandaniketan School, Sylhet, Bangladesh
 - [Why tidiness is important](https://muktology.medium.com/be-tidy-be-clean-why-tidiness-is-important-94cb6c36aa79)
 - [Be prepared - survival guide](https://muktology.medium.com/be-prepared-the-travellers-survival-guide-eabcddf41809)
 
+<!-- .slide vertical=true -->
+  More blog posts are available in the [archive section](archive) of this website. Have a visit there!
+
 <!-- .slide -->
 
 <a id="toolchains--software-skills"></a>
