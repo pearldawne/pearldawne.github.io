@@ -115,6 +115,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 h2,
                 h3, { 
                   font-family: "icomoon";
+                  src:  url(https://detalk.muxsites.com/assets/vendor/icomoon/icomoon.eot?g4m7fo');
+                  src:  url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.eot?g4m7fo#iefix') format('embedded-opentype'),
+                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.ttf?g4m7fo') format('truetype'),
+                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.woff?g4m7fo') format('woff'),
+                        url('https://detalk.muxsites.com/assets/vendor/vendor/icomoon/icomoon.svg?g4m7fo#icomoon') format('svg');
+                  font-weight: normal;
+                  font-style: normal; 
                 }
                 
                 html,
