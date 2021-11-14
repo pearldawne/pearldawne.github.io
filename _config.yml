@@ -281,20 +281,20 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   }
                 </style>
               - | # 运行时间，可将倒数第三行的时间改成你自己的建站时间，格式仿照上面的；不需要的话可以把这一项都删掉
-                <!-- <div>
+                <div>
                   <i class="fas fa-cog fa-spin fa-fw"></i>
                   <span id="run_time_day">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span>天
+                  </span> days
                   <span id="run_time_hour">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span>时
+                  </span> hours
                   <span id="run_time_minute">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span>分
+                  </span> minutes
                   <span id="run_time_second">
                     <i class="fas fa-spinner fa-pulse"></i>
-                  </span>秒
+                  </span> seconds
                   <script>
                     setInterval(function (d,h,m,s,b) {
                       function setzero(i) {
@@ -332,19 +332,19 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     <i class="fas fa-eye fa-fw"></i>
                     <span id="busuanzi_value_page_pv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>次
+                    </span> views
                   </div>
-                  <div>
+                  <!-- <div>
                     <i class="fas fa-paw fa-fw"></i>
                     <span id="busuanzi_value_site_pv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>枚
-                  </div>
+                    </span> 
+                  </div> -->
                   <div>
                     <i class="fas fa-user-friends fa-fw"></i>
                     <span id="busuanzi_value_site_uv">
                       <i class="fas fa-spinner fa-pulse"></i>
-                    </span>人
+                    </span> visitors
                   </div>
                   <script
                     src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0'
@@ -352,7 +352,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   ></script>
                 </div>
               - | # 觉得我的主题好用的话，让更多的人知道它吧！
-                <div>
+                <!-- <div>
                   <i class="fas fa-thumbs-up fa-fw"></i>
                   <a href="https://jekyll-theme-WuK.wu-kan.cn">
                     jekyll-theme-WuK
@@ -496,7 +496,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 增加宽屏下的显示内容
               <style>
                 .container {
-                  min-width: 66.6%;
+                  min-width: 86.6%;
                   min-height: 100vh;
                 }
                 @media only print {
@@ -521,7 +521,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 .container.content {
                   padding: 2rem;
                   box-shadow: 0 0 2rem rgba(255,255,255,0.9);
-                  background-color: rgba(255,255,255,0.95);
+                  background-color: rgba(255,255,255,0.99);
                   animation-duration: 2s;
                   animation-name: fadeIn;
                 }
@@ -530,7 +530,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     opacity: 0;
                   }
                   to {
-                    opacity: 1;
+                    opacity: 2;
                   }
                 }
               </style>
@@ -621,11 +621,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           wordcount: # 统计全文字数
             enable: true
             prepend: <i class="fas fa-file-word fa-fw"></i>
-            unit: words
+            unit: " words"
           readtime: # 计算文章阅读时间
             enable: true
             prepend: <i class="fas fa-clock fa-fw"></i>
-            unit: minutes
+            unit: "-minute read"
             divided_by: 300 # 正常人的阅读速度大概每分钟三百个字
           copyright:
             | # 我的文章使用最宽松的知识共享协议：署名 4.0 国际 (CC BY 4.0)。您可以自由地：共享 — 在任何媒介以任何形式复制、发行本作品；演绎 — 修改、转换或以本作品为基础进行创作；在任何用途下，甚至商业目的。只要你遵守许可协议条款，许可人就无法收回你的这些权利。惟须遵守下列条件：署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
