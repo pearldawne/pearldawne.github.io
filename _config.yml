@@ -18,7 +18,9 @@ description: >
   <a href="https://office.dewan.dev">
     <i class="fa fa-briefcase" aria-hidden="true"></i>
   </a>
-  
+   <audio preload="auto" autoplay loop>
+            <source src="asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
+  </audio>
   <br/>
   <!-- <iframe
     src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
