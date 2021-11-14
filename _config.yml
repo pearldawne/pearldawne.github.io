@@ -206,6 +206,8 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /shop/
               - title: '<i class="fas fa-coffee fa-fw"></i> Merch'
                 href: https://patreon.com/join/muktodmi
+              - title: '<i class="fa fa-rocket" aria-hidden="true"></i> Free Discord Nitro'
+                href: /5039320/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: false
               full_text_search: true # 可能导致缓慢的搜索和加载
