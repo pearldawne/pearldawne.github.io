@@ -13,6 +13,10 @@ body {
    margin: 0;
    overflow: hidden;
    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 canvas{
    position:absolute;
