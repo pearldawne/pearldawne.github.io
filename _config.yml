@@ -111,7 +111,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               </style>
             - | # 网站字体，要换字体建议架梯子上<https://fonts.google.com/>挑选，再通过fonts.loli.net 加速引入
               <style>
-                html,
+                p,
                 h4,
                 h5,
                 h6 {
@@ -119,6 +119,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 }
                 
                 .sidebar,
+                html,
                 table,
                 td,
                 tr,
