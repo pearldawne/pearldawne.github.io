@@ -5,6 +5,10 @@ description: Using the discord.py API, build a basic Discord bot
 tags : discordpy discordbot bots
 ---
 
+<audio preload="auto" autoplay loop>
+   <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
+</audio>
+
 ## Overview
 Discord bots, ah! A popular practice for refining your programming skills *and* reap benefits from users instantly! Thanks to the power of the Discord APIs like <a href="https://discordpy.readthedocs.io/" target="_blank">discord.py</a> or <a href="https://discord.js.org/" target="_blank">discord.js</a>, it is possible to program neat pieces of software in the form of the "bots".
 
