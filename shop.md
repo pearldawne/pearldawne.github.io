@@ -14,8 +14,14 @@ body {
    overflow: hidden;
    background-repeat: no-repeat;
 }
+canvas{
+   position:absolute;
+   left:0;
+   top:0;
+   z-index:-1;
+    }
 </style>
-<canvas id="canvas" width="100%" height="800">
+<canvas id="canvas" width="100%" height="800"></canvas>
 
 <audio preload="auto" autoplay loop>
    <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
@@ -26,4 +32,4 @@ body {
 </div>
 <script type="text/javascript" src="https://dewan.dev/psychedelic-bg/script.js" charset="utf-8"></script>
 
-</canvas>
+
