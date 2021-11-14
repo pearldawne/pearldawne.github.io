@@ -20,7 +20,9 @@ canvas{
    left:0;
    top:0;
    z-index:-1;
-   background-attachment: fixed;
+}
+#canvas{
+  background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
