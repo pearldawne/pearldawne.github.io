@@ -18,9 +18,7 @@ description: >
   <a href="https://office.dewan.dev">
     <i class="fa fa-briefcase" aria-hidden="true"></i>
   </a>
-   <audio preload="auto" autoplay loop>
-            <source src="asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
-  </audio>
+
   <br/>
   <!-- <iframe
     src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
@@ -229,6 +227,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 <ol
                   id="sidebar-search-results-container"
                 ></ol>
+                 <audio preload="auto" autoplay loop>
+                   <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
+                 </audio>
                 <script
                   src='https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.1'
                   async='async'
