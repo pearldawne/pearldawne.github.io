@@ -21,7 +21,7 @@ canvas{
    top:0;
    z-index:-1;
 }
-#canvas{
+\#canvas{
   background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
