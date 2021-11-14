@@ -194,7 +194,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /
               - title: '<i class="fa fa-university"></i> Office'
                 href: https://office.dewan.dev/
-                target: _blank
               - title: '<i class="fas fa-comments fa-fw"></i> Comments'
                 href: /comments/
               - title: '<i class="fas fa-tags fa-fw"></i> Tags'
@@ -202,10 +201,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - title: '<i class="fas fa-archive fa-fw"></i> Archive'
                 href: /archive/
               - title: '<i class="fa fa-shopping-bag"> Shop'
-                href: /shop
-              - title: '<i class="fas fa-coffee fa-fw"></i> Merch'
-                href: https://patreon.com/join/muktodmi
-                target: _blank
+                href: /shop/
             simple_jekyll_search: # 侧边栏的全站搜索
               enable: false
               full_text_search: true # 可能导致缓慢的搜索和加载
