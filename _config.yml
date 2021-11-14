@@ -1,7 +1,3 @@
-   <audio preload="auto" autoplay loop>
-            <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
-  </audio>
-
 title: Dewan Mukto
 author: Dewan Mukto
 google_analytics: 'G-97CY2GDQK9'
@@ -74,6 +70,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 icon"
                 href="https://my.muxworks.com/assets/favicon/favicon-32x32.png"
               />
+             <audio preload="auto" autoplay loop>
+             <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
+             </audio>
             - | # 来自lanyon的页面样式，不要改
               <link
                 rel="stylesheet"
