@@ -110,6 +110,10 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 }
               </style>
             - | # 网站字体，要换字体建议架梯子上<https://fonts.google.com/>挑选，再通过fonts.loli.net 加速引入
+              <link rel="preconnect" href="https://fonts.googleapis.com">
+              <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+              <link href="https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap" rel="stylesheet">
+              <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
               <style>
                 p,
                 h4,
@@ -531,11 +535,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <style>
               
                 .warp {
-                  background-image: url(https://cdn.discordapp.com/attachments/835459250460688445/908947209624649779/dewan_dev_1.png);
+                  background-image: url(/asset/images/dewanmukto_bg.png);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://cdn.discordapp.com/attachments/835459250460688445/908947430442151976/Dewan_Mukto.png);
+                    background-image: url(/asset/images/dewanmukto_bg.png);
                   }
                 }
               </style>
