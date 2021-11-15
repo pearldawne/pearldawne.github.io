@@ -747,7 +747,7 @@ compress_html: # <https://github.com/penibelst/jekyll-compress-html>
   ignore:
     envs: []
   blanklines: false
-  profile: true
+  profile: false
   startings: []
 
 # githubpage上支持的插件见<https://pages.github.com/versions/>
