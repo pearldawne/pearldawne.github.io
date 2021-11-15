@@ -194,8 +194,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> Home'
                 href: /
-              - title: '<i class="fa fa-university"></i> Office'
-                href: https://office.dewan.dev/
               - title: '<i class="fas fa-comments fa-fw"></i> Comments'
                 href: /comments/
               - title: '<i class="fas fa-tags fa-fw"></i> Tags'
