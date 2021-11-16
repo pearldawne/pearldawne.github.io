@@ -6,6 +6,13 @@ My name is Dewan Maksudul Islam Mukto. \
 Welcome to my homesite!
 <!-- .slide -->
 
+If you're new here, use the **≡** icon in the top-right corner to use the sidebar menu.
+And click/tap **[here](/menu)** for the menu of my works.
+
+Continue forward if you would like to know more **about me**. ▶
+
+<!-- .slide -->
+
 ## Highlights
 
 - Web Developer @ [Asenturisk](https://asenturisk.com), [MuxSites](https://www.muxsites.com/), [MikuMikuDance](https://mikumikudance.org)
