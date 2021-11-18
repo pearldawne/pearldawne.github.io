@@ -541,9 +541,9 @@ a {
   align-items: center;
   flex: 1;
   color: #03dac6;
-  letter-spacing: 0.1rem;
+  letter-spacing: 1rem;
   transition: all 0.5s ease;
-  font-size: 2vw;
+  font-size: 0.5vw;
 }
 
 .nav-tab:hover {
