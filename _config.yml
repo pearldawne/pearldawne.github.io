@@ -635,7 +635,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         comments: # 留言页
           append: | # <https://utteranc.es/>, 请使用你自己的repo！
             <script
-              repo="wu-kan/utterances-storage"
+              repo="dmimukto/utterances"
               src="https://utteranc.es/client.js"
               issue-term="url"
               theme="github-light"
