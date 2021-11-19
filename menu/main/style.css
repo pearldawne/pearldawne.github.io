@@ -481,10 +481,10 @@ body {
 .nav h1,
 .slider h1 {
   font-family: "Josefin Sans", sans-serif;
-  font-size: 12;
+  font-size: 1em;
   margin: 0;
   padding-bottom: 0.5rem;
-  letter-spacing: 1rem;
+  letter-spacing: 0.5rem;
   color: #03dac6;
   transition: all 0.3s ease;
   z-index: 3;
@@ -541,9 +541,9 @@ a {
   align-items: center;
   flex: 1;
   color: #03dac6;
-  letter-spacing: 1rem;
+  letter-spacing: 0.1rem;
   transition: all 0.5s ease;
-  font-size: 0.5vw;
+  font-size: 0.6em;
 }
 
 .nav-tab:hover {
