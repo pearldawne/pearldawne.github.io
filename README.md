@@ -1,7 +1,19 @@
+<link rel="stylesheet" href="./style.css">
+
+# Home
+![](https://cdn.discordapp.com/attachments/817313984264536114/911083083393032222/official_dewan_mukto_website_tp.png)
+<a href="/menu"><button>Works</button></a>
+<a href="https://business.dewanmukto.com/" target="_blank"><button>Business</button></a>
+<a href="https://my.muxworks.com/" target="_blank"><button>Portfolio</button></a>
+<a href="https://projects.asenturisk.com/" target="_blank"><button>Projects</button></a>
+<a href="/archive/"><button>Archive</button></a>
+
+Continue forward to explore more about Dewan Mukto.
 
 
-# Greetings 🙋‍♂️
+<!-- .slide -->
 
+# Greetings :raising_hand_man:
 My name is Dewan Maksudul Islam Mukto. \
 Welcome to my homesite!
 <!-- .slide -->
