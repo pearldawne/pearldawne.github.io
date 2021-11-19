@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="./style.css">
 
 <img src="https://cdn.discordapp.com/attachments/817313984264536114/911083083393032222/official_dewan_mukto_website_tp.png" alt="site logo" />
-<a href="/menu"><button class="new-small">Works</button></a>
-<a href="https://business.dewanmukto.com/" target="_blank"><button class="new-small">Business</button></a><a href="https://my.muxworks.com/" target="_blank"><button class="new-small">Portfolio</button></a><a href="https://projects.asenturisk.com/" target="_blank"><button class="new-small">Projects</button></a><a href="/archive/"><button class="new-small">Archive</button></a>
+<a href="/menu"><button class="new-small">Works</button></a><a href="https://business.dewanmukto.com/" target="_blank"><button class="new-small">Business</button></a><a href="https://my.muxworks.com/" target="_blank"><button class="new-small">Portfolio</button></a><a href="https://projects.asenturisk.com/" target="_blank"><button class="new-small">Projects</button></a><a href="/archive/"><button class="new-small">Archive</button></a>
 
 Continue forward to explore more about Dewan Mukto.
 
