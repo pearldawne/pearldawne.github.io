@@ -481,8 +481,8 @@ body {
 .nav h1,
 .slider h1 {
   font-family: "Josefin Sans", sans-serif;
-  font-size: 1em;
-  margin: 0;
+  font-size: 0.6em;
+  margin: 0.9;
   padding-bottom: 0.5rem;
   letter-spacing: 0.5rem;
   color: #03dac6;
