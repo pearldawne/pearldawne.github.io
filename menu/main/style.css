@@ -116,3 +116,51 @@ aside div svg {
   height: calc(var(--edge-width) * 0.5);
   width: auto;
 }
+
+.floating-sidebar{
+  max-width: 290px;
+  min-height:48px;
+  right:0px;
+  position: absolute;
+  background:#eee;
+  overflow-x:hidden;
+}
+.sb-1{
+    top:150px;
+}
+.sb-2{
+    top:199px;
+}
+.sb-3{
+    top:248px;
+}
+.sb-button{
+  width:265px;
+  margin-right:-220px;
+  transition:ease 0.5s;
+  height:48px;
+  cursor:pointer;
+}
+.sb-button:hover{
+  width:265px;
+  margin-right:0px;
+  transition:ease 0.5s;
+}
+.sb-icon{
+  width:48px;
+  height:48px;
+  background:red;
+  float:left;
+}
+.sb-icon .fa{
+  text-align:center;
+  color:#fff;
+  font-size:22px;
+  padding:13px;
+}
+.sb-link{
+  color:#000;
+  font-weight:bold;
+  padding: 15px 13px 3px 13px;
+  float:left;
+}
