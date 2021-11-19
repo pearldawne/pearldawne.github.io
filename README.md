@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="./style.css">
 
-## Home
 <img src="https://cdn.discordapp.com/attachments/817313984264536114/911083083393032222/official_dewan_mukto_website_tp.png" alt="site logo" />
 <a href="/menu"><button class="small">Works</button></a>
 <a href="https://business.dewanmukto.com/" target="_blank"><button class="small">Business</button></a><a href="https://my.muxworks.com/" target="_blank"><button class="small">Portfolio</button></a><a href="https://projects.asenturisk.com/" target="_blank"><button class="small">Projects</button></a><a href="/archive/"><button class="small">Archive</button></a>
