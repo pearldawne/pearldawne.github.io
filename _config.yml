@@ -68,7 +68,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               <link
                 rel="shortcut
                 icon"
-                href="https://my.muxworks.com/assets/favicon/favicon-32x32.png"
+                href="/asset/images/favicon.png"
               />
              
             - | # 来自lanyon的页面样式，不要改
