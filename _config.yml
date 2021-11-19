@@ -1,6 +1,6 @@
 title: Dewan Mukto
 author: Dewan Mukto
-google_analytics: 'G-97CY2GDQK9'
+google_analytics_id: 'G-97CY2GDQK9'
 description: > 
   Official website of the one and only #MUKTO
   <a href="https://instagram.com/dewanmukto">
@@ -20,19 +20,19 @@ description: >
   </a>
 
   <br/>
-  <!-- <iframe
-    src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"
-    frameborder="no"
-    border="0"
-    marginwidth="0"
-    marginheight="0"
-    width="100%"
-    height=52
-  ></iframe> -->
 
 
 url: https://dewanmukto.com # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+seo:
+  meta_og_title: "Dewan Mukto"
+  meta_og_type: "website"
+  meta_og_url: "https://dewanmukto.com/"
+  meta_og_image: "https://cdn.discordapp.com/attachments/817313984264536114/911049061136736256/dewanmukto_bg_2.png"
+  meta_og_description: "Official website of the one and only #MUKTO"
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@DewanMukto"
+  meta_twitter_creator: "@DewanMukto"
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
