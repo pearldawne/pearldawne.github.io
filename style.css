@@ -1,8 +1,8 @@
-button.new {
+button.new-small {
 	position: relative;
 	margin: 1em;
 	padding: 0.5em 1em;
-	font-size: 2em;
+	font-size: 0.7em;
 	text-transform: uppercase;
 	border-radius: .3em;
 	border: 0.1em solid black;
@@ -14,20 +14,13 @@ button.new {
 	text-shadow: 0 0.1em rgba(255,255,255,0.1), 0 -0.1em rgba(0,0,0,0.2);
 }
 
-button.new:hover {
+button.new-small:hover {
 	text-shadow: 0 0 .3em #f30;
 }
 
-button.new:active {
+button.new-small:active {
 	text-shadow: 0 0 .3em #f30;
 	top: 0.1em;
 	box-shadow: inset 0 .1em rgba(255,255,255,0.1), 0 0.1em rgba(255,255,255,0.1), 0 -0.1em 0 .2em rgba(0,0,0,0.1);
 }
 
-button.new-medium {
-	font-size: 1em;
-}
-
-button.new-small {
-	font-size: 0.7em; /* .7em is minimum*/
-}
