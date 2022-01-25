@@ -188,7 +188,6 @@ Anandaniketan School, Sylhet, Bangladesh
 - [Amusing art via math](https://office.dewan.dev/aa4mm/)
 - [Making a Discord bot 101](https://dewan.dev/2021/06/29/discordbots.html)
 - [Binary bits - memory calculation](https://dewan.dev/2021/03/03/binary-bits.html)
-- [Is the LGBTQ+ community worth it?](https://muktology.medium.com/is-the-lgbtq-community-worth-it-90425c954b35)
 - [The 'genius' behind Alan Walker's "Faded"](https://muktology.medium.com/the-genius-behind-alan-walkers-faded-cff8de5970ca)
 
 <!-- .slide vertical=true -->
