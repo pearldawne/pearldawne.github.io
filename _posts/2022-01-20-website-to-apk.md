@@ -24,7 +24,9 @@ Once you are ready, launch the Android Studio software and select 'Empty Activit
 
 Now, simply locate and paste the code snippets into the respective files (and remember to change the text in all capital letters! Except for the comments.) :
 
-### MainActivity.java
+<br /><br />
+
+### MainActivity.java 👇
 
 Address : **app > src > main > java > com > YOURDEVELOPERNAME/BRAND > YOURAPPNAME > MainActivity.java**
 ```java
@@ -66,8 +68,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+<br /><br />
 
-### activity_main.xml
+### activity_main.xml 👇
 
 Address : **app > src > main > res > layout > activity_main.xml**
 ```xml
@@ -87,8 +90,9 @@ Address : **app > src > main > res > layout > activity_main.xml**
 </RelativeLayout>
 ```
 
+<br /><br />
 
-### themes.xml
+### themes.xml 👇
 
 Depending on your version and other factors, you may have more than 1 'themes.xml' file
 
@@ -117,7 +121,9 @@ Address : **app > src > main > res > values > themes.xml**
 </resources>
 ```
 
-### AndroidManifest.xml
+<br /><br />
+
+### AndroidManifest.xml 👇
 
 Address : **app > src > main > AndroidManifest.xml**
 
@@ -146,6 +152,8 @@ Address : **app > src > main > AndroidManifest.xml**
 
 </manifest>
 ```
+
+<br /><br />
 
 ## Changing the icon
 
