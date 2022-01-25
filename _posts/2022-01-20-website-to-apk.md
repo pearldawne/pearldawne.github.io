@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         mainWebsite.setWebViewClient(new WebViewClient());
     }
 
-    //Code For Back Button
+    // Allowing the 'back' activity to take you back a page rather than exiting the app
     @Override
     public void onBackPressed() {
         if(mainWebsite.canGoBack())
