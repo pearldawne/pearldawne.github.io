@@ -130,7 +130,7 @@ Address : **app > src > main > AndroidManifest.xml**
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.asenturisk.testwebapp">
+    package="com.YOURDEVNAME.YOURAPPNAME">
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <application
         android:allowBackup="true"
@@ -138,7 +138,7 @@ Address : **app > src > main > AndroidManifest.xml**
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.TestWebApp">
+        android:theme="@style/Theme.YOURAPPNAME">
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -157,7 +157,9 @@ Address : **app > src > main > AndroidManifest.xml**
 
 ## Changing the icon
 
-Lastly, before you export the APK, you should change the app's icon from the default 'placeholder' image that is pre-loaded as an asset in Android Studio. To do this, delete all the folders/files within **res > mipmap** and **res > drawable**. Right-click on **res** (in the project viewer) and **new > image asset**. Locate the icon's image, select 'Trim : Yes' to resize and fit the image within the icon's boundaries. Finish.
+Lastly, before you export the APK, you should change the app's icon from the default 'placeholder' image that is pre-loaded as an asset in Android Studio. To do this, delete all the folders/files within **res > mipmap** and **res > drawable**. This is to ensure that all the previous preset images are removed properly.
+
+Next, right-click on **res** (in the project viewer) and **new > image asset**. Locate the icon's image, select 'Trim : Yes' to resize and fit the image within the icon's boundaries. Finish.
 
 ## Exporting the APK
 
