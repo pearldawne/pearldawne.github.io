@@ -212,6 +212,7 @@ Anandaniketan School, Sylhet, Bangladesh
   - **IVerilog**, Familiar ∎∎
   - **Rust**, New ∎
   - **R**, Familiar ∎∎
+  - **Fortran**, Familiar ∎∎
 
 <!-- .slide vertical=true -->
 - Web development
