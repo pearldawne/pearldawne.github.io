@@ -164,3 +164,9 @@ Lastly, before you export the APK, you should change the app's icon from the def
 Now, this step will produce an 'unsigned' 'debug' version of the app - which is good enough for simple experiments and first-time developers. Nothing to worry about. On the menu bar, select **Build > Build bundle(s) / APK(s) > Build APK(s)** and wait for Gradle to do the magic. Once it is complete, you'll notice a notification in the bottom panels (if it is successfully built). Now, click on the 'locate' text from the "locate or analyze" statement. And you shall find your **app-dedug.apk**, which you can copy to another location and rename.
 
 And that's it!
+
+<br /><br />
+<br /><br />
+<br /><br />
+
+###### adapted from <a href="https://abhiandroid.com/createandroidapp/webview-android-app" target="_blank">this blogsite</a>.
