@@ -10,7 +10,7 @@ tags : android java apkdev
 </audio> -->
 
 ## Overview
-Sometimes, you wish to have a more convenient method of letting your audience/clients access your website. And for that, usually the answer is to "keep things memorable". Thus, what can be more memorable and always poking at your attention than having an app on the mobile device's screen - eager to teleport your visitors to any target website, anytime?
+Sometimes, you wish to have a more convenient method of letting your audience/clients access your website. And for that, usually the answer is to "keep things memorable". Thus, what can be more memorable and "always poking at your attention" than having an app on the mobile device's screen? Eager to teleport your visitors to any target website, anytime?
 
 Here is a simplified process of what to do :
 
