@@ -7,24 +7,24 @@ tags: linux android techtips os
 
 Hey there! You must be thinking that running Linux on Android means that you would need to expel its default operating system itself. But that is not always the case, luckily!
 
-If you want to fully install native Linux on your mobile device, then try [Ubuntu Touch]() or something similar. But if you would to keep both operating systems, then you've come to the right place! (Almost)
+If you want to fully install native Linux on your mobile device, then try [Ubuntu Touch](https://g.co/kgs/qwC8jn) or something similar. But if you would to keep both operating systems, then you've come to the right place! (Almost)
 
 This post is about running Ubuntu (one of the most popular Linux/GNU distributions out there) via Termux. This would be sort of like running it in a virtual machine. But anyways, onto the main procedure!
 
 ## Requirements
-- Termux (not the one on Google Play Store; you need the specialized one from F-Droid)
-- Andronix (optional, since the commands have been posted here)
-- VNC Viewer (suggested, although any other types of virtual network computer viewers can be used)
+- [Termux](https://f-droid.org/repo/com.termux_118.apk) (not the one on Google Play Store; you need the specialized one from F-Droid)
+- [Andronix](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix&hl=en_CA&gl=US) (optional, since the commands have been posted here)
+- [VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en_CA&gl=US) (suggested, although any other types of virtual network computer viewers can be used)
 
 ## Installation
 To begin with, copy one of these whole segments of bash commands :
 
-For [XFCE]() desktop environment
+For [XFCE](https://g.co/kgs/vJ2bdc) desktop environment
 ```bash
 curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh && chmod +x repo.sh && bash repo.sh && pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu20/ubuntu20-xfce.sh -O ubuntu20-xfce.sh && chmod +x ubuntu20-xfce.sh && bash ubuntu20-xfce.sh
 ```
 
-For [LXQT]() desktop environment
+For [LXQT](https://g.co/kgs/B5VixP) desktop environment
 ```bash
 curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh && chmod +x repo.sh && bash repo.sh && pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu20/ubuntu20-lxqt.sh -O ubuntu20-lxqt.sh && chmod +x ubuntu20-lxqt.sh && bash ubuntu20-lxqt.sh
 ```
