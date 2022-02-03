@@ -72,6 +72,7 @@ A curated list of music that I enjoy and listen to when feeling happier or sadde
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2r7qMHu0r0qbl4zlEgWWc8?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Toram Online OST - Navida's Relics
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/294579195&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-478652177" title="Kronus-ToramWriter" target="_blank" style="color: #cccccc; text-decoration: none;">Kronus-ToramWriter</a> · <a href="https://soundcloud.com/user-478652177/xmass-event-bgm" title="Xmass Event/ Navida&#x27;s Relics BGM" target="_blank" style="color: #cccccc; text-decoration: none;">Xmass Event/ Navida&#x27;s Relics BGM</a></div>
 
 ### jhove - away from home ft. bert
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17yGKoUPRTQVo7V4B0AXLK?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -108,7 +109,7 @@ A curated list of music that I enjoy and listen to when feeling happier or sadde
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV5h8eTX8UY?start=602" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Kupla - Kingdom in Blue (EP)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7boAU92M1FypSBlYz0aeSg?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Project AER - Spirits
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3TmeQEsjT8tAa4ThWCnFDX?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
