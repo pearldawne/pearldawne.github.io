@@ -6,7 +6,7 @@ If you had visited the [My Music](https://dewanmukto.com/music) post in the [Arc
 
 Disappointing talk aside, here you go. Enjoy one of the last remnants of my musical work while it lasts.
 
-Another note : These are random previews of each track. To listen to the full tracks, you need to head over to Spotify, either directly or via the links.
+
 ### King of Yoga (2018)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1RvwRAMSHp78d44pzIaKhT?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
