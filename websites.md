@@ -94,11 +94,13 @@ jekyll-theme-WuK:
 61. dewanmukto.com
 62. amrellasocial.com
 63. sawpmansite.com
-64. chillmusic.muxsites.com
-65. geoxor.muxsites.com
-66. cleanchat.muxsites.com
-67. phoenixnation.muxsites.com
-68. detalk.muxsites.com
-69. dewanielts.muxsites.com
+64. sawpman.com
+65. chillmusic.muxsites.com
+66. geoxor.muxsites.com
+67. cleanchat.muxsites.com
+68. phoenixnation.muxsites.com
+69. detalk.muxsites.com
+70. dewanielts.muxsites.com
+71. bs.muxsites.com
 
 (there could be more, but I forgot which ones they were 🥴)
