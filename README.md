@@ -24,10 +24,10 @@ Continue forward if you would like to know more **about me**. ▶
 ## Highlights
 
 - Web Developer @ [Asenturisk](https://asenturisk.com), [MuxSites](https://www.muxsites.com/), [MikuMikuDance](https://mikumikudance.org)
-- Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://muktology.medium.com/)
+- Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://muktology.medium.com/), [the MUSE](https://themuse.ca/author/dmimukto/)
 - Director, 3D Animator, Graphics Designer @ [Mux Anime Studios](https://mux111anime.wordpress.com/credits/)
 - Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
-- Sales Associate @ [Mark's](https://marks.com)
+- (Ex) Sales Associate @ [Mark's](https://marks.com)
 - Researcher @ [MuxWorks](https://www.muxworks.com/)
 - International Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
 
@@ -39,10 +39,10 @@ Continue forward if you would like to know more **about me**. ▶
 - Current Address
   - **CR-310, Cartier Court, Burton's Pond Road, A1B 3X6, NL, Canada**
 - Websites
-  - **<https://dewan.dev>**
   - **<https://my.muxworks.com>**
   - **<https://asenturisk.com>**
-  - **[more...](https://mux.asenturisk.com/projects/websites)**
+  - **<https://detalk.muxsites.com>**
+  - **[more...](/websites)**
 - [Résumé](https://my.muxworks.com/dewan-mukto-resume-3.pdf)
 
 <!-- .slide vertical=true -->
@@ -56,7 +56,7 @@ I may be slow to respond, but feel free to reach out to me if you have any sugge
   - **[Discord](https://discord.gg/invite/GqHJmagG4k)**
 
 - My Own Social Platforms
-  - **[Amrella](https://amrella.muxworks.com/user/muktodmi)**
+  - **[Amrella](https://amrella.muxworks.com/user/dewan_mukto)**
   - **[Muxcord](https://muxcord.dewanmukto.repl.co/channel/join/61788701e9975e0155af5f6c)**
 
 - E-mail:
@@ -109,9 +109,9 @@ Anandaniketan School, Sylhet, Bangladesh
 
 <!-- .slide vertical=true -->
 
-- [Muxcord](https://muxcord.apps.muxworks.com/)
-  - Trying to create a Discord-like social platform
-  - MongoDB, SocketIO, NodeJS
+- [Kodbell-Amrella Media](https://business.dewanmukto.com/services/kodbellamrella/)
+  - Developing social platforms
+  - MongoDB, SocketIO, NodeJS, ReactJS
 
 <!-- .slide vertical=true -->
 
@@ -121,7 +121,7 @@ Anandaniketan School, Sylhet, Bangladesh
 
 
 <!-- .slide vertical=true -->
-- [THRXT Technologies](https://youtu.be/tNtK-8OgYtw)
+- [THRXT Technologies](https://www.youtube.com/watch?v=rZ8VVfrdcpc)
   - Creating and working with shaders, 3D, animation, etc.
   - GLSL, HLSL, MikuMikuDance
 
