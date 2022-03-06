@@ -1,5 +1,11 @@
 ---
 layout: page
+title: YouTube Archives
+permalink: /videos/youtube
+jekyll-theme-WuK:
+  default:
+    sidebar:
+      open: false
 ---
 
 <!-- A basic 2 column layout for videos-->
