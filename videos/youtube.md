@@ -7,12 +7,17 @@ jekyll-theme-WuK:
     sidebar:
       open: false
 ---
-
+These are some old 2017-18 videos that have been lost and recovered.
 <!-- A basic 2 column layout for videos-->
 
-<p><video width="50%" height="360" controls>
+### 2018 classics
+
+<p>
+<font align="left">Living Tomorrow</font>
+<video width="50%" height="360" controls>
   <source src="https://tribe-video-input-temp.s3.amazonaws.com/5fba975d3616512115ac8834/posts/62250de8be1f1a8c113155ec/29211_Living_Tomorrow.mp4" type="video/mp4">
 Your browser does not support the video tag.
+<font align="right">Wanderlust's Appetite</font>
 </video><video width="50%" height="360" controls>
   <source src="https://tribe-video-input-temp.s3.amazonaws.com/5fba975d3616512115ac8834/posts/622511307272a251188fba60/27746_Wanderlust's_Appetite.mp4" type="video/mp4">
 Your browser does not support the video tag.
