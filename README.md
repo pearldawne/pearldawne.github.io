@@ -24,7 +24,7 @@ Continue forward if you would like to know more **about me**. ▶
 ## Highlights
 
 - Web Developer @ [Asenturisk](https://asenturisk.com), [MuxSites](https://www.muxsites.com/), [MikuMikuDance](https://mikumikudance.org)
-- Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://dewanmukto.medium.com/), [the MUSE](https://themuse.ca/author/dmimukto/)
+- Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://dewanmukto.medium.com/), [Ubermensch](https://ubermensch.muxsites.com/author/dewan-mukto)
 - Director, 3D Animator, Graphics Designer @ [Mux Anime Studios](https://mux111anime.wordpress.com/credits/)
 - Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
 - (Ex) Sales Associate @ [Mark's](https://marks.com)
