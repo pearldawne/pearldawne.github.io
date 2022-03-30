@@ -116,7 +116,7 @@ Anandaniketan School, Sylhet, Bangladesh
 <!-- .slide vertical=true -->
 
 - [Mux Anime Studios](https://mux111anime.wordpress.com)
-  - Leading and maintaining a team of 30-40 volunteers who are working on an anime series together.
+  - Leading and maintaining a team of 41 volunteers who are working on an anime series together.
   - One of the first anime studios in Bangladesh
 
 
