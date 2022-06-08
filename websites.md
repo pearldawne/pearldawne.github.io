@@ -12,20 +12,21 @@ jekyll-theme-WuK:
 
 - amrella.social (expired)
 - dewanmukto.tech (expired)
-- mukto.live (expiring)
-- cruse.life (expiring)
-- zessel.me (expiring)
+- mukto.live (expired)
+- cruse.life (expired)
+- zessel.me (expired)
 - asenturisk.com
-- muxworks.com
-- muxsites.com
+- muxworks.com (expiring)
+- muxsites.com (expiring)
 - mikumikudance.org (expiring)
 - মুক্ত.com (expiring)
 - dewan.dev (expiring)
 - dewanmukto.com
 - muktodmi.com (expiring)
 - sawpmansite.com (expiring)
-- amrellasocial.com
+- amrellasocial.com (expiring)
 - sawpman.com (expiring)
+- mux.com.co
 
 
 #### An index of all my websites :
@@ -72,7 +73,7 @@ jekyll-theme-WuK:
 39. dewanmukto.wordpress.com
 40. cooperblack.data.blog
 41. doomielts.wordpress.com
-42. amrella.social
+42. ~~amrella.social~~ amrella.muxworks.com
 43. sounddonor.bubbleapps.io
 44. shoft.bubbleapps.io
 45. dewal.bubbleapps.io
@@ -85,14 +86,14 @@ jekyll-theme-WuK:
 52. apps.asenturisk.com
 53. frostfly.zessel.me
 54. mukto.company.site
-55. www.muxworks.com
+55. ~~www.muxworks.com~~ www.mux.com.co
 56. mukto.muxworks.com
 57. edexcel.muxworks.com
-58. amrella.muxworks.com
+58. ~~amrella.muxworks.com~~ amrellasocial.com
 59. dewan.dev
 60. amrella.dewan.dev
 61. dewanmukto.com
-62. amrellasocial.com
+62. ~~amrellasocial.com~~ amrella.mux.com.co
 63. sawpmansite.com
 64. sawpman.com
 65. chillmusic.muxsites.com
@@ -101,6 +102,6 @@ jekyll-theme-WuK:
 68. phoenixnation.muxsites.com
 69. detalk.muxsites.com
 70. dewanielts.muxsites.com
-71. bs.muxsites.com
+71. ~~bs.muxsites.com~~ blog.mux.com.co
 
 (there could be more, but I forgot which ones they were 🥴)
