@@ -26,7 +26,7 @@ new Vue({
         },
         {
           name: "Summer Sales",
-          artist: "N/A",
+          artist: "Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274878239182898/summer_sales.png",
           source: "/music/mp3/summer-sales.mp3",
           url: "https://soundcloud.com/dewanmukto/summer-sales",
