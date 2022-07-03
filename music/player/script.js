@@ -44,7 +44,7 @@ new Vue({
           name: "Bored Roads",
           artist: "Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274879023521812/bored_roads.png",
-          source: "music/mp3/bored-roads.mp3",
+          source: "/music/mp3/bored-roads.mp3",
           url: "https://soundcloud.com/dewanmukto/bored-roads",
           favorited: false
         },
