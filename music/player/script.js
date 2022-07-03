@@ -48,6 +48,14 @@ new Vue({
           url: "https://soundcloud.com/dewanmukto/bored-roads",
           favorited: false
         },
+        {
+          name: "Space Party 90s Edition",
+          artist: "Space Party",
+          cover: "https://cdn.discordapp.com/attachments/993274819334389760/993300299911528528/space_party.png",
+          source: "/music/mp3/space-party-90s-edition.mp3",
+          url: "https://soundcloud.com/dewanmukto/space-party-90s-edition",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
