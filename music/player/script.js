@@ -18,7 +18,7 @@ new Vue({
       tracks: [
         {
           name: "Future House Demo",
-          artist: "N/A",
+          artist: "Album: N/A",
           cover: "https://i1.sndcdn.com/artworks-lx1xlFK1T1pjfzfx-kDTOeA-t500x500.jpg",
           source: "/music/mp3/future-house-demo.mp3",
           url: "https://soundcloud.com/dewanmukto/future-house-demo",
@@ -26,7 +26,7 @@ new Vue({
         },
         {
           name: "Summer Sales",
-          artist: "Words of the Wind",
+          artist: "Album: Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274878239182898/summer_sales.png",
           source: "/music/mp3/summer-sales.mp3",
           url: "https://soundcloud.com/dewanmukto/summer-sales",
@@ -34,7 +34,7 @@ new Vue({
         },
         {
           name: "Breezy Days",
-          artist: "Words of the Wind",
+          artist: "Album: Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274879291949206/words_of_the_wind.png",
           source: "/music/mp3/breezy-days.mp3",
           url: "https://soundcloud.com/dewanmukto/breezy-days",
@@ -42,7 +42,7 @@ new Vue({
         },
         {
           name: "Bored Roads",
-          artist: "Words of the Wind",
+          artist: "Album: Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274879023521812/bored_roads.png",
           source: "/music/mp3/bored-roads.mp3",
           url: "https://soundcloud.com/dewanmukto/bored-roads",
@@ -50,11 +50,27 @@ new Vue({
         },
         {
           name: "Space Party 90s Edition",
-          artist: "Space Party",
+          artist: "Album: Space Party",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993300299911528528/space_party.png",
           source: "/music/mp3/space-party-90s-edition.mp3",
           url: "https://soundcloud.com/dewanmukto/space-party-90s-edition",
           favorited: false
+        },
+         {
+          name: "Red Jacket",
+          artist: "Album: N/A",
+          cover: "https://cdn.discordapp.com/attachments/993274819334389760/993698761043886131/red_jacket.png",
+          source: "/music/mp3/red-jacket.mp3",
+          url: "https://soundcloud.com/dewanmukto/red-jacket",
+          favorited: false
+        },
+        {
+          name: "Lost in the Overworld",
+          artist: "Album: Words of the Wind",
+          cover: "https://cdn.discordapp.com/attachments/993274819334389760/993698760733495377/overworld.png",
+          source: "/music/mp3/lost-in-the-overworld.mp3",
+          url: "https://soundcloud.com/dewanmukto/lost-in-the-overworld",
+          favorited: true
         },
       ],
       currentTrack: null,
