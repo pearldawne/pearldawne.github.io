@@ -33,6 +33,14 @@ new Vue({
           favorited: true
         },
         {
+          name: "Summer Vibes (ft. Ghost)",
+          artist: "Album: Words of the Wind",
+          cover: "https://cdn.discordapp.com/attachments/993274819334389760/995374297382125678/summer_vibes_covrr.png",
+          source: "/music/mp3/summer-vibes.mp3",
+          url: "https://soundcloud.com/mahirproductions/summer-vibes",
+          favorited: true
+        },
+        {
           name: "Breezy Days",
           artist: "Album: Words of the Wind",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993274879291949206/words_of_the_wind.png",
