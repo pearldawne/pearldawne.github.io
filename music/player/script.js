@@ -57,8 +57,8 @@ new Vue({
           favorited: false
         },
          {
-          name: "Red Jacket",
-          artist: "Album: N/A",
+          name: "Thrill",
+          artist: "Album: The Red Jacket",
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993698761043886131/red_jacket.png",
           source: "/music/mp3/red-jacket.mp3",
           url: "https://soundcloud.com/dewanmukto/red-jacket",
@@ -70,6 +70,14 @@ new Vue({
           cover: "https://cdn.discordapp.com/attachments/993274819334389760/993698760733495377/overworld.png",
           source: "/music/mp3/lost-in-the-overworld.mp3",
           url: "https://soundcloud.com/dewanmukto/lost-in-the-overworld",
+          favorited: true
+        },
+        {
+          name: "Deciduous",
+          artist: "Album: The Red Jacket",
+          cover: "https://cdn.discordapp.com/attachments/993274819334389760/995368648719998976/deciduous.png",
+          source: "/music/mp3/deciduous.mp3",
+          url: "https://soundcloud.com/dewanmukto/deciduous",
           favorited: true
         },
       ],
