@@ -37,7 +37,7 @@ Continue forward if you would like to know more **about me**. ▶
 ## Contact
 
 - Current Address
-  - [Only available on demand]
+  - 54 Wishingwell Rd, St. John's, NL, Canada
 - Websites
   - **<https://my.muxworks.com>**
   - **<https://asenturisk.com>**
