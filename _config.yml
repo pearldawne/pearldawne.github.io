@@ -2,7 +2,7 @@ title: Dewan Mukto
 author:
   fullname                  : Dewan Mukto
   mail                      : 
-  twitter                   : 
+  twitter                   : @DewanMukto
   youtube                   : channel/UCqkQwGyM_xqsFqwNkDCUJJA
   google_analytics          : 'G-97CY2GDQK9'
 google_analytics_id: 'G-97CY2GDQK9'
@@ -11,7 +11,7 @@ description: >
   <a href="https://instagram.com/dewanmukto">
     <i class="fas fa-instagram" aria-hidden="true"></i>
   </a>
-  <a href="https://youtube.com/c/MuktoDBoss">
+  <a href="https://youtube.com/c/DewanMukto">
     <i class="fas fa-youtube-play" aria-hidden="true"></i>
   </a>
   <a href="https://github.com/dmimukto">
@@ -33,7 +33,7 @@ seo:
   meta_og_title: "Dewan Mukto"
   meta_og_type: "website"
   meta_og_url: "https://dewanmukto.com/"
-  meta_og_image: "https://cdn.discordapp.com/attachments/817313984264536114/911049061136736256/dewanmukto_bg_2.png"
+  meta_og_image: "https://media.discordapp.net/attachments/913805469016002581/1006344528812322856/muktodmi_logo_tp.png"
   meta_og_description: "Official website of the one and only #MUKTO"
   meta_twitter_card: "summary"
   meta_twitter_site: "@DewanMukto"
