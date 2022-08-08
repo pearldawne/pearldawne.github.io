@@ -34,9 +34,16 @@ canvas{
    <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
 </audio>
 <div id="my-store-65656951"></div>
-<div>
-<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?65656951&data_platform=code&data_date=2021-11-14" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-65656951");</script>
-</div>
+<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/discord-bot">Loading...</a></div>
+<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/logo-design">Loading...</a></div>
+<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/logo-design">Loading...</a></div>
+<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/thumbnail-design">Loading...</a></div>
+<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/cover-design">Loading...</a></div>
 <script type="text/javascript" src="https://dewan.dev/psychedelic-bg/script.js" charset="utf-8"></script>
 
 
