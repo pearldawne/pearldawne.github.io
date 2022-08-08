@@ -33,17 +33,7 @@ canvas{
 <audio preload="auto" autoplay loop>
    <source src="https://dewanmukto.com/asset/audio/frlegendsost2.mp3" type="audio/mpeg" preload="auto" />
 </audio>
-<div id="my-store-65656951"></div>
-<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/discord-bot">Loading...</a></div>
-<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/logo-design">Loading...</a></div>
-<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/logo-design">Loading...</a></div>
-<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/thumbnail-design">Loading...</a></div>
-<script src="https://shop.dewanmukto.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-outbound-embed="true"><a href="https://shop.dewanmukto.com/l/cover-design">Loading...</a></div>
+<meta http-equiv="refresh" content="0.5;url=https://shop.dewanmukto.com" />
 <script type="text/javascript" src="https://dewan.dev/psychedelic-bg/script.js" charset="utf-8"></script>
 
 
