@@ -8,6 +8,8 @@ jekyll-theme-WuK:
       open: true
 ---
 
+#### Looking for my social profiles? [Hit this link to check that section](/social)
+
 #### The following domains are registered as my properties :
 
 - amrella.social (expired)
@@ -16,8 +18,8 @@ jekyll-theme-WuK:
 - cruse.life (expired)
 - zessel.me (expired)
 - asenturisk.com
-- muxworks.com (expiring)
-- muxsites.com (expiring)
+- muxworks.com 
+- muxsites.com 
 - mikumikudance.org (expiring)
 - মুক্ত.com (expiring)
 - dewan.dev (expiring)
@@ -103,5 +105,6 @@ jekyll-theme-WuK:
 69. detalk.muxsites.com
 70. dewanielts.muxsites.com
 71. ~~bs.muxsites.com~~ blog.mux.com.co
+72. shop.dewanmukto.com
 
 (there could be more, but I forgot which ones they were 🥴)
