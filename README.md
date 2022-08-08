@@ -27,7 +27,7 @@ Continue forward if you would like to know more **about me**. ▶
 - Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://dewanmukto.medium.com/), [Ubermensch](https://ubermensch.muxsites.com/author/dewan-mukto)
 - Director, 3D Animator, Graphics Designer @ [Mux Anime Studios](https://mux111anime.wordpress.com/credits/)
 - Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
-- (Ex) Sales Associate @ [Mark's](https://marks.com)
+- Sales Associate @ [Mark's](https://marks.com)
 - Researcher @ [MuxWorks](https://www.muxworks.com/)
 - International Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
 
@@ -37,7 +37,7 @@ Continue forward if you would like to know more **about me**. ▶
 ## Contact
 
 - Current Address
-  - 54 Wishingwell Rd, St. John's, NL, Canada
+  - [available on demand]
 - Websites
   - **<https://my.muxworks.com>**
   - **<https://asenturisk.com>**
