@@ -33,7 +33,7 @@ seo:
   meta_og_title: "Dewan Mukto"
   meta_og_type: "website"
   meta_og_url: "https://dewanmukto.com/"
-  meta_og_image: "/asset/images/favicon.png"
+  meta_og_image: "https://cdn.discordapp.com/attachments/817313984264536114/911049061136736256/dewanmukto_bg_2.png"
   meta_og_description: "Official website of the one and only #DewanMukto"
   meta_twitter_card: "summary"
   meta_twitter_site: "@DewanMukto"
@@ -199,7 +199,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://media-exp1.licdn.com/dms/image/C560BAQEAoa5z3Cb8xw/company-logo_200_200/0/1632443363140?e=1645056000&v=beta&t=0gBL9dFou38x9igjubjofYRItWGqMcENdnF-Rp0ynlQ # 头像的地址
+              img: /asset/images/favicon.png # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> Home'
                 href: /
