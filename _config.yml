@@ -7,7 +7,7 @@ author:
   google_analytics          : 'G-97CY2GDQK9'
 google_analytics_id: 'G-97CY2GDQK9'
 description: > 
-  Official website of the one and only #MUKTO
+  Official website of the one and only #DewanMukto
   <a href="https://instagram.com/dewanmukto">
     <i class="fas fa-instagram" aria-hidden="true"></i>
   </a>
@@ -33,8 +33,8 @@ seo:
   meta_og_title: "Dewan Mukto"
   meta_og_type: "website"
   meta_og_url: "https://dewanmukto.com/"
-  meta_og_image: "https://media.discordapp.net/attachments/913805469016002581/1006344528812322856/muktodmi_logo_tp.png"
-  meta_og_description: "Official website of the one and only #MUKTO"
+  meta_og_image: "/asset/images/favicon.png"
+  meta_og_description: "Official website of the one and only #DewanMukto"
   meta_twitter_card: "summary"
   meta_twitter_site: "@DewanMukto"
   meta_twitter_creator: "@DewanMukto"
