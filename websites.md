@@ -18,8 +18,8 @@ jekyll-theme-WuK:
 - cruse.life (expired)
 - zessel.me (expired)
 - asenturisk.com
-- muxworks.com 
-- muxsites.com 
+- muxworks.com (expiring)
+- muxsites.com (expiring)
 - mikumikudance.org (expiring)
 - মুক্ত.com (expiring)
 - dewan.dev (expiring)
@@ -28,7 +28,7 @@ jekyll-theme-WuK:
 - sawpmansite.com (expiring)
 - amrellasocial.com (expiring)
 - sawpman.com (expiring)
-- mux.com.co
+- mux.com.co (expiring)
 
 
 #### An index of all my websites :
@@ -84,27 +84,26 @@ jekyll-theme-WuK:
 48. zessel.me
 49. social.cruse.life
 50. msharp.asenturisk.com
-51. mux.asenturisk.com
+51. ~~mux.asenturisk.com~~ oldfolio.dewanmukto.com
 52. apps.asenturisk.com
 53. frostfly.zessel.me
 54. mukto.company.site
-55. ~~www.muxworks.com~~ www.mux.com.co
+55. ~~www.muxworks.com~~ mux.dewanmukto.com
 56. mukto.muxworks.com
 57. edexcel.muxworks.com
-58. ~~amrella.muxworks.com~~ amrellasocial.com
+58. ~~amrella.muxworks.com~~ amrella.apps.dewanmukto.com
 59. dewan.dev
 60. amrella.dewan.dev
 61. dewanmukto.com
-62. ~~amrellasocial.com~~ amrella.mux.com.co
 63. sawpmansite.com
 64. sawpman.com
 65. chillmusic.muxsites.com
-66. geoxor.muxsites.com
+66. ~~geoxor.muxsites.com~~ geoxor.sites.dewanmukto.com
 67. cleanchat.muxsites.com
 68. phoenixnation.muxsites.com
-69. detalk.muxsites.com
-70. dewanielts.muxsites.com
-71. ~~bs.muxsites.com~~ blog.mux.com.co
+69. ~~detalk.muxsites.com~~ detalk.sites.dewanmukto.com
+70. ~~dewanielts.muxsites.com~~ ielts.dewanmukto.com
+71. ~~bs.muxsites.com~~ blog.mux.dewanmukto.com
 72. shop.dewanmukto.com
 
 (there could be more, but I forgot which ones they were 🥴)
