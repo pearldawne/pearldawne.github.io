@@ -27,7 +27,7 @@ Continue forward if you would like to know more **about me**. ▶
 - Writer, Poet @ [Wattpad](https://wattpad.com/user/muktodmi), [Medium](https://dewanmukto.medium.com/), [Ubermensch](https://ubermensch.muxsites.com/author/dewan-mukto)
 - Director, 3D Animator, Graphics Designer @ [Mux Anime Studios](https://mux111anime.wordpress.com/credits/)
 - Musical Producer @ [AMN Studio](https://mukto.bandcamp.com/)
-- Sales Associate @ [Mark's](https://marks.com)
+- Sales Associate @ [Sherwin-William's]()
 - Researcher @ [MuxWorks](https://www.muxworks.com/)
 - International Student @ [Memorial University of Newfoundland, Canada](https://www.mun.ca)
 
@@ -37,7 +37,7 @@ Continue forward if you would like to know more **about me**. ▶
 ## Contact
 
 - Current Address
-  - [available on demand]
+  - 126 Empire Avenue, St. John's, NL, Canada
 - Websites
   - **<https://my.muxworks.com>**
   - **<https://asenturisk.com>**
@@ -75,7 +75,7 @@ IELTS
 
 Memorial University of Newfoundland, St. John's, NL, Canada
 
-- Bachelor of Science, Sept. 2020 - Sept. 2024 (expected)
+- Bachelor of Science, Sept 2020 - Dec 2024 (expected)
   - Major : Computer Science
   - Minor : Economics
 
