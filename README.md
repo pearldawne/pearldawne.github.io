@@ -2,7 +2,7 @@
 
 <img src="/asset/images/dewanmuktosite.gif" alt="site logo" />
 Use the buttons below to discover... <br />
-<a href="/menu"><button class="new-small">Works</button></a><a href="https://business.dewanmukto.com/" target="_blank"><button class="new-small">Business</button></a><a href="https://my.mux.com.co/" target="_blank"><button class="new-small">Portfolio</button></a><a href="https://mux.asenturisk.com/projects" target="_blank"><button class="new-small">Projects</button></a><a href="/archive/"><button class="new-small">Archive</button></a><a href="https://shop.dewanmukto.com/"><button class="new-small">Shop</button></a>
+<a href="/menu"><button class="new-small">Works</button></a><a href="https://business.dewanmukto.com/" target="_blank"><button class="new-small">Business</button></a><a href="https://portfolio.dewanmukto.com" target="_blank"><button class="new-small">Portfolio</button></a><a href="https://oldfolio.dewanmukto.com/projects" target="_blank"><button class="new-small">Projects</button></a><a href="/archive/"><button class="new-small">Archive</button></a><a href="https://shop.dewanmukto.com/"><button class="new-small">Shop</button></a>
 
 Continue forward to explore more about Dewan Mukto.
 
