@@ -367,28 +367,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 </div> -->
               - | # Copyright声明
                 <div>
-                  <i class="fas fa-copyright fa-fw"></i>
-                  Dewan Mukto
+                  <i class="fas fa-user-edit fa-fw"></i>
+                  Pearl M. Dawne
                 </div>
-              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
-                <!-- <div>
-                  <i class="fas fa-info-circle fa-fw"></i>
-                  <a href="http://beian.miit.gov.cn">
-                    粤ICP备 20024947号
-                  </a>
-                </div>
-              - | # 公安网备信息
-                <div>
-                  <img src="https://i.loli.net/2021/03/17/Y47tDZTrcy2xwRa.png" class="fa-fw"></img>
-                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
-                    皖公网安备 34070202000407号
-                  </a>
-                </div> -->
-            wordcount: # 全站字数统计
-              enable: true # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
-              prepend: <i class="fas fa-user-edit fa-fw"></i>
-              kilo: " KB"
-              unit: " words"
         page:
           title: # 为每个页面自动生成一个 H1 title
             enable: true
