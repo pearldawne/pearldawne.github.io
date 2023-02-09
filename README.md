@@ -27,6 +27,6 @@ Continue forward if you would like to know more **about me**. ▶
 
 <!-- .slide vertical=true -->
 
-I'm sorry. Most sections of this website is currently being renovated. 😓 \
+I'm sorry. Most sections of this website are currently being renovated. 😓 \
 Please check back later. Thanks~ \
 Enjoy the lovely weather outside, instead. 🌻
