@@ -1,43 +1,28 @@
 title: Dewan Mukto
 author:
-  fullname                  : Dewan Mukto
+  fullname                  : Pearl Dawne
   mail                      : 
-  twitter                   : DewanMukto
-  youtube                   : channel/UCqkQwGyM_xqsFqwNkDCUJJA
+  twitter                   : pmdawne
+  youtube                   : 
   google_analytics          : 'G-97CY2GDQK9'
 google_analytics_id: 'G-97CY2GDQK9'
 description: > 
-  Official website of the one and only #DewanMukto
-  <a href="https://instagram.com/dewanmukto">
-    <i class="fas fa-instagram" aria-hidden="true"></i>
-  </a>
-  <a href="https://youtube.com/c/DewanMukto">
-    <i class="fas fa-youtube-play" aria-hidden="true"></i>
-  </a>
-  <a href="https://github.com/dmimukto">
-    <i class="fab fa-github" aria-hidden="true"></i>
-  </a>
-  <a href="https://my.mux.com.co">
-    <i class="fa fa-desktop" aria-hidden="true"></i>
-  </a>
-  <a href="https://linkedin.com/in/dewanmukto">
-    <i class="fa fa-briefcase" aria-hidden="true"></i>
-  </a>
+  Just a little space of place on the internet.
 
   <br/>
 
 
-url: https://dewanmukto.com # 你的域名，例如 https://wu-kan.github.io
+url: https://pearl.muxanime.com # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 seo:
-  meta_og_title: "Dewan Mukto"
+  meta_og_title: "Pearl's Corner"
   meta_og_type: "website"
-  meta_og_url: "https://dewanmukto.com/"
-  meta_og_image: "https://cdn.discordapp.com/attachments/817313984264536114/911049061136736256/dewanmukto_bg_2.png"
-  meta_og_description: "Official website of the one and only #DewanMukto"
+  meta_og_url: "https://pearldawne.github.io"
+  meta_og_image: ""
+  meta_og_description: "Just a little space of place on the internet."
   meta_twitter_card: "summary"
-  meta_twitter_site: "@DewanMukto"
-  meta_twitter_creator: "@DewanMukto"
+  meta_twitter_site: "@pmdawne"
+  meta_twitter_creator: "@pmdawne"
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
@@ -212,7 +197,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - title: '<i class="fas fa-shopping-bag fa-fw"></i> Shop'
                 href: /shop/
               - title: '<i class="fas fa-coffee fa-fw"></i> Merch'
-                href: https://patreon.com/join/dewanmukto
+                href: 
               - title: '<i class="fa fa-rocket" aria-hidden="true"></i> Free Discord Nitro'
                 href: /5039320/
             simple_jekyll_search: # 侧边栏的全站搜索
@@ -330,7 +315,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       function setzero(i) {
                         return i < 10 ? "0" + i : i;
                       }
-                      let BirthDay = new Date('January 22, 2002');
+                      let BirthDay = new Date('January 22, 2003');
                       let today = new Date();
                       let timeold = (today.getTime() - BirthDay.getTime());
                       let sectimeold = timeold / 1000;
@@ -640,7 +625,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         comments: # 留言页
           append: | # <https://utteranc.es/>, 请使用你自己的repo！
             <script
-              repo="dmimukto/utterances"
+              repo="pearldawne/utterances"
               src="https://utteranc.es/client.js"
               issue-term="url"
               theme="github-light"
@@ -664,7 +649,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             | # 我的文章使用最宽松的知识共享协议：署名 4.0 国际 (CC BY 4.0)。您可以自由地：共享 — 在任何媒介以任何形式复制、发行本作品；演绎 — 修改、转换或以本作品为基础进行创作；在任何用途下，甚至商业目的。只要你遵守许可协议条款，许可人就无法收回你的这些权利。惟须遵守下列条件：署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
             <br/>
             <i class="fas fa-coffee fa-fw"></i>
-            <a href="https://patreon.com/join/dewanmukto">Join the #MUKTO Patreon club!</a>
+            <a href=""></a>
             <br/>
             <i class="fab fa-creative-commons-by fa-fw"></i>
             <a
@@ -676,21 +661,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         merger: # 打赏页，需要配置！
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
-              <script>
-                var myname = "Dewan Mukto";
-                var profile = "dewanmukto@gmail.com";
-                var usage = "payment";
-                var wechat = 
-                var tenpay = 
-                var alipay = 
-                var paypal = 
-                var multilingual = false;
-                var branding = false;
-                var title = "Support/Donate";
-                var subtitle = "Motivate" + myname + "to keep up the good work!";
-                var qrcodeapi = "";
-                var gravatar_url = 
-              </script>
             - |
               <meta
                 charset="utf-8"
