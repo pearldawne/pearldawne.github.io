@@ -1,4 +1,4 @@
-title: Dewan Mukto
+title: Pearl's Corner
 author:
   fullname                  : Pearl Dawne
   mail                      : 
@@ -51,15 +51,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 type="application/rss+xml"
               />
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
-              <link
-                rel="apple-touch-icon-precomposed"
-                href="https://my.muxworks.com/assets/favicon/apple-touch-icon.png"
-              />
-              <link
-                rel="shortcut
-                icon"
-                href="/asset/images/favicon.png"
-              />
              
             - | # 来自lanyon的页面样式，不要改
               <link
